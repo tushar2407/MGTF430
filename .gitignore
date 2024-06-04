@@ -3,3 +3,4 @@
 *.feather
 models/
 predictions/
+*.zip
